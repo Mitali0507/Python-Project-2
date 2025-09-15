@@ -12,8 +12,9 @@ while (a !=n):
     elif(a==n):
         print(f"You have the guessed the number {n} in {guesses} attempts")          
     else:
-        print("Invalid entry!)
+        print("Invalid entry!")
 
               
+
 
 
